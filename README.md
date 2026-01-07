@@ -8,7 +8,7 @@ Time Tune is a high-precision web audio player built for multi-device playback.
 - **Cross-platform**: Works on any device with a modern browser (Chrome recommended for best performance)
 - **Spatial audio:** Allows controlling device volumes through a virtual listening source for interesting sonic effects
 - **Polished interface**: Smooth loading states, status indicators, and all UI elements come built-in
-- **Self-hostable**: Run your own instance with a few commands
+- **Self-hostable**: Run your own instance with a few commands and enjoy the vibe
 
 
 > [!NOTE]
