@@ -2,8 +2,6 @@
 
 Time Tune is a high-precision web audio player built for multi-device playback.
 
-https://github.com/user-attachments/assets/2aa385a7-2a07-4ab5-80b1-fda553efc57b
-
 ## Features
 
 - **Millisecond-accurate synchronization**: Abstracts [NTP-inspired](https://en.wikipedia.org/wiki/Network_Time_Protocol) time synchronization primitives to achieve a high degree of accuracy
